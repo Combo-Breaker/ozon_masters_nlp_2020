@@ -1,1 +1,1 @@
-# ozon_masters_nlp_2020
+# Курс NLP программы Ozon Masters, 2020
